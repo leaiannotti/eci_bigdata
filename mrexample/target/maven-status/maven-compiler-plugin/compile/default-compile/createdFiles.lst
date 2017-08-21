@@ -1,0 +1,3 @@
+mapreduce_example/mrexample/App.class
+mapreduce_example/mrexample/MyMapper.class
+mapreduce_example/mrexample/MyReduce.class

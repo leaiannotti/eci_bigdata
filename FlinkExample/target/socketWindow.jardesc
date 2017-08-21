@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/leoian/Escritorio/BigData/flink/SocketWindowWordCount.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/FlinkExample/target/socketWindow.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=FlinkExample/src\/main\/java&lt;com.leandroiannotti.flink.FlinkExample{SocketWindowWordCount.java[SocketWindowWordCount" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=FlinkExample/src\/test\/java"/>
+        <folder path="/FlinkExample/target"/>
+        <file path="/FlinkExample/pom.xml"/>
+        <folder path="/FlinkExample/src"/>
+        <file path="/FlinkExample/.classpath"/>
+        <javaElement handleIdentifier="=FlinkExample/src\/main\/java"/>
+        <file path="/FlinkExample/.project"/>
+    </selectedElements>
+</jardesc>
